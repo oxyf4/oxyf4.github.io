@@ -481,6 +481,10 @@ footer {
    text-align: center;
 }
 
+.pass {
+   text-align: center;
+   padding-top: 10px;
+}
 
 /* Media Queries */
 @media screen and (min-width: 350px) {
